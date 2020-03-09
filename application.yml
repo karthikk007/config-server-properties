@@ -1,9 +1,9 @@
 db:
-    connection: "{connectionString: 'http://www.xxx.com', userName: 'karthik', password: 'pass'}"
+    connection: "{connectionString: 'http://www.xxx-git-config.com', userName: 'karthik', password: 'pass'}"
     host: 127.0.0.1
     port: 4000
 
 my:
     list:
       values: one,two,three
-    greeting: Hello Karthik Kumar
+    greeting: Hello Karthik Kumar from git config
