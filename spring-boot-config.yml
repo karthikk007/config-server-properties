@@ -1,2 +1,2 @@
 db:
-    connection: "{connectionString: 'http://www.xxx-git-config-micro-service-level.com', userName: 'karthik-micro-service-level', password: 'pass-micro-service-level'}"
+    connection: "{connectionString: 'http://www.xxx-git-config-micro-service-level.com', userName: 'karthik-service-level', password: 'pass-micro-service-level'}"
